@@ -1,3 +1,5 @@
+**WIP**
+
 # when will i die extension
 
 - Project: https://github.com/orgs/when-will-i-die/projects/3
@@ -10,9 +12,9 @@ pnpm dev
 pnpm build
 ```
 
-## daily work vlog
+## Dev vlog
 
-- Design day:
+- Design day Feb 18, 2023:
 
 ## Sponsor this project
 
