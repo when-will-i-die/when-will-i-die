@@ -6,12 +6,6 @@
 - Milestones: https://github.com/when-will-i-die/when-will-i-die/milestones
 - Design: https://www.figma.com/file/tNxWbwL3AbYabDQUFwERmt/when-will-i-die-extension?node-id=0%3A1&t=nM4V5CmuYmZ1adKb-1
 
-```bash
-pnpm dev
-
-pnpm build
-```
-
 ## Dev vlog
 
 - Design day Feb 18, 2023:
