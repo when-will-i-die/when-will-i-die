@@ -7,6 +7,8 @@
 
 ## Dev vlog
 
+- Design day Apr 3, 2023: <https://youtu.be/iOxHf-kov60>
+
 ## Sponsor this project
 
 Help me have [5$ to publish to chrome web store](https://github.com/when-will-i-die/when-will-i-die/issues/18) `or help me pay my water bill`: [pay.thuanowa.com](https://pay.thuanowa.com)
