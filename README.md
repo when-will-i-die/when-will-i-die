@@ -1,5 +1,7 @@
 **WIP**
 
+![logo](./docs/img/icon.png)
+
 # when will i die extension
 
 - Project: https://github.com/orgs/when-will-i-die/projects/3
@@ -8,6 +10,7 @@
 ## Dev vlog
 
 - Design day Apr 3, 2023: <https://youtu.be/iOxHf-kov60>
+- Design logo, Apr 4, 2023: <https://youtu.be/CPfE7TX_cGU>
 
 ## Sponsor this project
 
