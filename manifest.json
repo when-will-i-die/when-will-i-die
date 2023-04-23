@@ -1,0 +1,13 @@
+{
+  "name": "When will i die?",
+  "version": "0.0.1",
+  "description": "New tab browser extension with countdown day and main focus task",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "manifest_version": 3,
+  "author": {
+    "name": "thuanowa",
+    "url": "https://thuanowa.com"
+  }
+}
