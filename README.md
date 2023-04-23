@@ -2,6 +2,9 @@
 
 ![logo](./docs/img/icon.png)
 
+
+fakup with storage and find somethings fun
+
 # when will i die extension
 
 - Project: https://github.com/orgs/when-will-i-die/projects/3
