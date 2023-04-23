@@ -1,9 +1,9 @@
 **WIP**
 
-![logo](./docs/img/icon.png)
+![logo](./icon128.png)
 
 
-fakup with storage and find somethings fun
+I fakup with storage and find somethings fun
 
 # when will i die extension
 
