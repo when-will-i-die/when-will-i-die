@@ -6,11 +6,7 @@
 
 - Project: https://github.com/orgs/when-will-i-die/projects/3
 - Design: https://www.figma.com/file/tNxWbwL3AbYabDQUFwERmt/when-will-i-die-extension?node-id=0%3A1&t=nM4V5CmuYmZ1adKb-1
-
-## Dev vlog
-
-- Design day Apr 3, 2023: <https://youtu.be/iOxHf-kov60>
-- Design logo, Apr 4, 2023: <https://youtu.be/CPfE7TX_cGU>
+- Dev vlog playlist: <https://www.youtube.com/playlist?list=PLcazFfFZIFPnA1E8iuf5gO0SCDz1_qTSk>
 
 ## Sponsor this project
 
